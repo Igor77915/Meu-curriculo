@@ -1,0 +1,50 @@
+BODY{ 
+ background-color: rgb(255, 255, 255);
+ font-family: Arial, Helvetica, sans-serif;
+width: 80%;
+margin: auto;
+}
+
+h1{ text-align: center;
+    color: rgb(54, 54, 193);
+    background-color: rgb(107, 159, 176);
+    font-size: 50px;}
+    
+p{text-align: center;
+margin: 30px;
+}
+
+H2{color: rgb(54, 54, 193);
+background-color:rgb(107, 159, 176) ;
+padding: auto;
+font-size: 30px;
+border-bottom: 3PX solid rgb(87, 85, 85);}
+
+A{ padding: 50px;
+
+}
+
+ul{padding-left: 0;}
+li{list-style-position: inside;}
+
+
+.menu{text-align: center;
+}
+
+.whatsapp{ color: rgb(0, 0, 0);
+padding: 0px;
+text-decoration: none; }
+
+.gmail{ font-family: Arial, Helvetica, sans-serif;
+    padding-left: 0px;
+    text-align: left;
+    margin: 20px 0px 0px 0px;
+}
+
+.gmail2{margin-left:15px;
+
+;}
+
+.wpp{margin-left: 15px;}
+.local{margin-left: 15px;}
+
